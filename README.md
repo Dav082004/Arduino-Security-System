@@ -1,5 +1,4 @@
 # Arduino-Security-System
-# Arduino Security System
 
 This project is an Arduino-based security system that uses ultrasonic sensors, a PIR (passive infrared) sensor, a buzzer, an LCD screen, and other electronic components to monitor and secure a specific area.
 
